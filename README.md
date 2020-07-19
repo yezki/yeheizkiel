@@ -1,5 +1,10 @@
-### Hi there 👋
+## Hello there 👋, and welcome to my profile!
 
+---
+
+#### <center>Let me introduce myself :</center>
+
+  My name is Yeheizkiel Gabriel.
 <!--
 **yeheizkiel/yeheizkiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
