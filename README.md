@@ -1,10 +1,12 @@
 # Hello there 👋, and welcome to my profile!
 
-#### Let me introduce myself :
+#### Let me introduce myself :relieved: :
 
-&nbsp;My name is Yeheizkiel Gabriel, and I'am 19 years old. Currently I'm working as a Website Developer in one of startup industries in Surabaya, and now I work from home due to the COVID-19 pandemic virus.
+&emsp;&emsp;My name is Yeheizkiel Gabriel and you can call me Yeski. I'am 19 years old. Currently I'm working as a Website Developer in one of startup industries in Surabaya, and now I work from home due to the COVID-19 pandemic virus.
   
-&nbsp;I can speak in more than 5 languages: Javanese, Indonesian, Malay, English, Arabic, and Japanese. I love learning foreign languages, especially Japanese. As a side-work, I have joined & contributing an open source project regarding database of information on animation shows from various countries and sites, called [Ryuuganime](https://github.com/ryuuganime), which is owned by [Nattadasu](https://github.com/nattadasu).
+&emsp;&emsp;I can speak at least 5 languages: Javanese, Indonesian, Malay, English, and Japanese. I love learning foreign languages especially English & Japanese, watching Sci-Fi Films & Japanese Anime, playing Chess & Rubik. As a side-work, I have joined & still contribute an open source project regarding database of information on animation shows from various countries and sites, called [Ryuuganime](https://github.com/ryuuganime "Open-source Anime Database Project"), which is owned by [Nattadasu](https://github.com/nattadasu "The owner of Ryuuganime Project").
+
+&emsp;&emsp;If you have any question for me regarding of works, collaboration or just want to talk to me, feel free to make an Issue in this repository.
       
 <!--
 **yeheizkiel/yeheizkiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
