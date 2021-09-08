@@ -4,7 +4,7 @@
 
 &emsp;&emsp;My name is Yeheizkiel Gabriel and I'am 19 years old Beginner-to-Intermediate Software Developer from Indonesia. You can call me by my first name, or just "Yezki" / "Yeski". Currently I'm working as a Freelance Website Developer at home in Jember - East Java.
   
-&emsp;&emsp;I can speak at least 5 languages: Javanese, Indonesian, Malay, English, and Japanese. I love learning foreign languages especially English & Japanese, watching Sci-Fi Films & Japanese Anime, playing Chess & Rubik, PC & Mobile games.
+&emsp;&emsp;I'm natively speak Indonesian, and (mostly) well-conversed in English (still learning though). I also love to & currently learning Japanese. My hobbies are watching Films & Japanese Animation, playing Chess & Rubik, PC & Mobile games, and most importantly is learn & share anything that I have in mind.
 
 &emsp;&emsp;I'm currently learning React.js, Node.js, and Express.js, trying to get to know about MERN Stack and also UI/UX Design, so that I can design my own website & future projects more better. 😄
 
